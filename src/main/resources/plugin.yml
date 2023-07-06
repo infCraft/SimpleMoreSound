@@ -1,0 +1,4 @@
+name: SimpleMoreSound
+version: '${project.version}'
+main: org.time.simplemoresound.SimpleMoreSound
+api-version: '1.16'
